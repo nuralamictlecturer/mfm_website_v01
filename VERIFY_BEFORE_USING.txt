@@ -1,0 +1,7 @@
+1. Run setup_windows.bat and confirm it ends with SETUP COMPLETED SUCCESSFULLY.
+2. Create the superuser.
+3. Run run_windows.bat.
+4. Confirm homepage and /admin/ both open.
+5. In Admin upload the institution logo and at least one Home Slide image.
+6. Create one test student/exam/result and verify /results/ search + print.
+7. Keep the original React/D1 project as backup until old content and historical results are verified.
